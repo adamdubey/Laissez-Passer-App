@@ -1,6 +1,5 @@
 # MERN-Auth-App
 
-![app-demo]()
 A minimal MERN full-stack app with user authentication
 
 This project uses the following technologies:
@@ -22,4 +21,3 @@ npm run dev
 // Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
 
-## Deployment

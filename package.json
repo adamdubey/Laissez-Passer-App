@@ -1,0 +1,30 @@
+{
+  "name": "mern-auth-app",
+  "version": "1.0.0",
+  "description": "MERN Auth demo app",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Adam Dubey",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "concurrently": "*",
+    "express": "*",
+    "is-empty": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "validator": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

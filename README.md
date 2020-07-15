@@ -1,6 +1,8 @@
 # 🛂 Laissez-Passer App
 
-A minimal MERN full-stack app showcasing User Authentication using Passport and JWTs.
+_Jeton d'authentification s'il vous plaît!_
+
+A MVP MERN Full-Stack App showcasing User Authentication using Passport and JWTs.
 
 ![app-demo](./README/app-demo.png)
 
@@ -8,6 +10,7 @@ A minimal MERN full-stack app showcasing User Authentication using Passport and 
 
 - [Create React App](https://facebook.github.io/create-react-app/)
 - [React](https://reactjs.org/)
+- [Axios](https://github.com/axios/axios)
 - [Express](https://expressjs.com/)
 - [Redux](https://redux.js.org/)
 - [Passport](http://www.passportjs.org/)
@@ -16,7 +19,6 @@ A minimal MERN full-stack app showcasing User Authentication using Passport and 
 - [Travis CI](https://travis-ci.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Node.js](https://nodejs.org/en/)
-- [Nginx](https://www.nginx.com)
 
 ## Overview
 
@@ -28,8 +30,6 @@ This application utilizes the following technologies in the respecive areas:
 - **State Management:** Redux
 - **Authentication:** Passport, JWTs
 - **DevOps Management:** Docker, Travis CI
-- **Loadbalancing:** Nginx
-- **Deployment Environment(s):** AWS, but can also use Azure or GCP
 
 ## Quickstart
 

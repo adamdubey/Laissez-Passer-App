@@ -19,6 +19,7 @@
     "express": "*",
     "is-empty": "*",
     "jsonwebtoken": "*",
+    "lodash": "^4.17.19",
     "mongoose": "*",
     "passport": "*",
     "passport-jwt": "*",
